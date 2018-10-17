@@ -1,0 +1,17 @@
+<h1><%= @statistics.results['query'] %></h1>
+<ul>
+  <li> positive_average : <%= @statistics.results['positive_average'] %> </li>
+  <li> negative_average : <%= @statistics.results['negative_average'] %> </li>
+  <li> neutral_average : <%= @statistics.results['neutral_average'] %> </li>
+  <li> positive_average% : <%= @statistics.results['positive_average%'] %> </li>
+  <li> negative_average% : <%= @statistics.results['negative_average%'] %> </li>
+  <li> neutral_average% : <%= @statistics.results['neutral_average%'] %> </li>
+</ul>
+
+<%= pie_chart @chart_test %>
+
+<!-- if search = '' || null:
+  skip process
+if searching for same term:
+  could show variance from last
+  variance from average -->

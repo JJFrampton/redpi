@@ -1,0 +1,2839 @@
+Started GET "/" for 127.0.0.1 at 2018-10-06 01:57:14 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/josephframpton/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/josephframpton/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 16ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 02:03:18 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 217ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.60.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+(execjs):1
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__1931318811736778147_70196736576520'
+Started GET "/" for 127.0.0.1 at 2018-10-06 02:07:28 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 186ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.60.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+(execjs):1
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___4376766086852878790_70100088131880'
+Started GET "/" for 127.0.0.1 at 2018-10-06 02:07:40 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 22ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.60.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+(execjs):1
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___4376766086852878790_70100089702000'
+Started GET "/" for 127.0.0.1 at 2018-10-06 02:10:21 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 182ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.60.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+(execjs):1
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2172211945585434435_70328585561820'
+Started GET "/" for 127.0.0.1 at 2018-10-06 02:10:22 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.60.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+(execjs):1
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2172211945585434435_70328604618020'
+Started GET "/" for 127.0.0.1 at 2018-10-06 02:27:02 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 451ms (Views: 443.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 05:07:01 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 203ms (Views: 193.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 05:21:02 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 17ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search?q=testing&commit=Search" for 127.0.0.1 at 2018-10-06 05:21:05 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/search?q=testing&commit=Search" for 127.0.0.1 at 2018-10-06 05:21:19 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/search?q=testing&commit=Search" for 127.0.0.1 at 2018-10-06 05:28:30 -0600
+  
+NoMethodError (undefined method `twitter' for #<ActionDispatch::Routing::Mapper:0x00007fc81d7728f0>):
+  
+config/routes.rb:3:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/" for 127.0.0.1 at 2018-10-06 05:30:25 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 81ms (Views: 78.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=some&commit=Search" for 127.0.0.1 at 2018-10-06 05:30:29 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-06 05:42:26 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/josephframpton/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/josephframpton/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 18ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 05:42:56 -0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/josephframpton/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/josephframpton/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 9ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search" for 127.0.0.1 at 2018-10-06 05:43:13 -0600
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for SearchController):
+  
+actionpack (5.2.1) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/search" for 127.0.0.1 at 2018-10-06 05:52:18 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/search" for 127.0.0.1 at 2018-10-06 06:01:09 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/search" for 127.0.0.1 at 2018-10-06 06:01:11 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:01:16 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 192ms (Views: 189.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=testing" for 127.0.0.1 at 2018-10-06 06:01:20 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter/" for 127.0.0.1 at 2018-10-06 06:01:37 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter/" for 127.0.0.1 at 2018-10-06 06:02:07 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:02:11 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=somethgn" for 127.0.0.1 at 2018-10-06 06:02:15 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?q=somethgn" for 127.0.0.1 at 2018-10-06 06:02:28 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:05:23 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:05:26 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:05:28 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:05:28 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter" for 127.0.0.1 at 2018-10-06 06:05:43 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter/some" for 127.0.0.1 at 2018-10-06 06:05:56 -0600
+Processing by TwitterController#search as HTML
+  Parameters: {"query"=>"some"}
+Completed 406 Not Acceptable in 73ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (TwitterController#search is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.2.1) lib/action_controller/metal/implicit_render.rb:55:in `default_render'
+actionpack (5.2.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+actionpack (5.2.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `tap'
+actionpack (5.2.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (5.2.1) lib/abstract_controller/base.rb:194:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.2.1) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (5.2.1) lib/active_support/callbacks.rb:132:in `run_callbacks'
+actionpack (5.2.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.1) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.1) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.1) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.1) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.1) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.1) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?q=some" for 127.0.0.1 at 2018-10-06 06:06:15 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?query=some" for 127.0.0.1 at 2018-10-06 06:06:23 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?query=some" for 127.0.0.1 at 2018-10-06 06:07:16 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?query=some" for 127.0.0.1 at 2018-10-06 06:07:55 -0600
+  
+ActionController::RoutingError (No route matches [GET] "/twitter"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/twitter?query=some" for 127.0.0.1 at 2018-10-06 06:11:48 -0600
+Processing by TwitterController#search as HTML
+  Parameters: {"query"=>"some"}
+Completed 406 Not Acceptable in 70ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (TwitterController#search is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.2.1) lib/action_controller/metal/implicit_render.rb:55:in `default_render'
+actionpack (5.2.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+actionpack (5.2.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `tap'
+actionpack (5.2.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (5.2.1) lib/abstract_controller/base.rb:194:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.2.1) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (5.2.1) lib/active_support/callbacks.rb:132:in `run_callbacks'
+actionpack (5.2.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.1) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.1) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.1) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.1) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.1) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.1) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.1) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.5) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+actionpack (5.2.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:11:58 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 158ms (Views: 156.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:12:02 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 93ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:14:47 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=testing" for 127.0.0.1 at 2018-10-06 06:14:51 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"testing"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 90ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=testing" for 127.0.0.1 at 2018-10-06 06:14:53 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"testing"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 95ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=testing" for 127.0.0.1 at 2018-10-06 06:14:54 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"testing"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 97ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:15:57 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 210ms (Views: 200.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:16:06 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 93ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:18:02 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 200ms (Views: 192.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=etst" for 127.0.0.1 at 2018-10-06 06:18:07 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"etst"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 50ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=etstdf" for 127.0.0.1 at 2018-10-06 06:18:58 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"etstdf"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 50ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=etstdf" for 127.0.0.1 at 2018-10-06 06:18:59 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"etstdf"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 45ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:23:53 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 189ms (Views: 181.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:23:57 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 31ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=tesing" for 127.0.0.1 at 2018-10-06 06:24:03 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"tesing"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:24:03 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 48ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:42:11 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 204ms (Views: 195.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=testing" for 127.0.0.1 at 2018-10-06 06:42:15 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"testing"}
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `base64' for Twitter:Class):
+  
+app/services/twitter.rb:11:in `<class:Twitter>'
+app/services/twitter.rb:5:in `<main>'
+app/controllers/twitter_controller.rb:5:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:42:55 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 181ms (Views: 173.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 06:43:00 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `base64' for Twitter:Class):
+  
+app/services/twitter.rb:11:in `<class:Twitter>'
+app/services/twitter.rb:1:in `<main>'
+app/controllers/twitter_controller.rb:5:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:44:06 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 193ms (Views: 185.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:44:09 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 10ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:44:09 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 06:44:47 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 26ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:44:47 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 213ms (Views: 191.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 06:53:58 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 186ms (Views: 177.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 06:54:02 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 492ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNRESET (Connection reset by peer):
+  
+app/services/twitter.rb:33:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 06:58:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 512ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNRESET (Connection reset by peer):
+  
+app/services/twitter.rb:33:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:01:47 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 211ms (Views: 203.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=s" for 127.0.0.1 at 2018-10-06 07:01:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"s"}
+Completed 500 Internal Server Error in 654ms (ActiveRecord: 0.0ms)
+
+
+  
+EOFError (end of file reached):
+  
+app/services/twitter.rb:40:in `google'
+app/controllers/twitter_controller.rb:8:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:04:40 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 186ms (Views: 178.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 07:04:48 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 274ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:04:48 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 45ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:06:08 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:06:18 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=te" for 127.0.0.1 at 2018-10-06 07:06:22 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"te"}
+Completed 500 Internal Server Error in 66ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `bytesize' for #<Hash:0x00007fd032a7bb38>):
+  
+app/services/twitter.rb:42:in `block in google'
+app/services/twitter.rb:41:in `google'
+app/controllers/twitter_controller.rb:8:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:07:19 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 177ms (Views: 169.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:07:22 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=testing" for 127.0.0.1 at 2018-10-06 07:07:25 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"testing"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 139ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:07:25 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 45ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:08:59 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 175ms (Views: 167.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:09:03 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 137ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:09:04 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 48ms (Views: 30.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:09:31 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 501ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNRESET (Connection reset by peer):
+  
+app/services/twitter.rb:33:in `block in search_for'
+app/services/twitter.rb:32:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:10:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 505ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNRESET (Connection reset by peer):
+  
+app/services/twitter.rb:33:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:14:03 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 181ms (Views: 173.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=ome" for 127.0.0.1 at 2018-10-06 07:14:07 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"ome"}
+Completed 500 Internal Server Error in 493ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNRESET (Connection reset by peer):
+  
+app/services/twitter.rb:33:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:15:54 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 179ms (Views: 171.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=some" for 127.0.0.1 at 2018-10-06 07:15:57 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"some"}
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `use_ssl=' for #<Net::HTTP::Get GET>):
+  
+app/services/twitter.rb:33:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=some" for 127.0.0.1 at 2018-10-06 07:16:24 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"some"}
+Completed 500 Internal Server Error in 30ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant Net::HTTPS):
+  
+app/services/twitter.rb:31:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=some" for 127.0.0.1 at 2018-10-06 07:17:08 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"some"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 526ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:17:08 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 211ms (Views: 190.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:18:10 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 179ms (Views: 171.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:18:14 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 569ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:18:14 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 47ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:21:06 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 177ms (Views: 169.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 07:21:12 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 509ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:21:13 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 45ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:22:40 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 528ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:22:40 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 191ms (Views: 175.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:25:06 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 177ms (Views: 169.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=sadf" for 127.0.0.1 at 2018-10-06 07:25:09 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"sadf"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 526ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:25:10 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=sadf" for 127.0.0.1 at 2018-10-06 07:27:06 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"sadf"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 529ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:27:06 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 200ms (Views: 178.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=sadf" for 127.0.0.1 at 2018-10-06 07:27:44 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"sadf"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 492ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:27:44 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 206ms (Views: 185.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:28:36 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 15ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=" for 127.0.0.1 at 2018-10-06 07:28:37 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>""}
+Redirected to http://localhost:3000/
+Completed 302 Found in 504ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:28:38 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 45ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=sd" for 127.0.0.1 at 2018-10-06 07:28:39 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"sd"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 383ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:28:39 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:29:28 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 181ms (Views: 172.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:29:32 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 523ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:29:33 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 47ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 07:30:30 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 0, expected 1)):
+  
+app/services/twitter.rb:27:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:30:41 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=" for 127.0.0.1 at 2018-10-06 07:30:42 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>""}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 0, expected 1)):
+  
+app/services/twitter.rb:27:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=fsd" for 127.0.0.1 at 2018-10-06 07:30:43 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"fsd"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 0, expected 1)):
+  
+app/services/twitter.rb:27:in `search_for'
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=fsd" for 127.0.0.1 at 2018-10-06 07:31:12 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"fsd"}
+Completed 500 Internal Server Error in 168ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `emp' for #<TwitterController:0x00007fb4badc0200>):
+  
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=fsd" for 127.0.0.1 at 2018-10-06 07:31:33 -0600
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:31:43 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"fsd"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 484ms (ActiveRecord: 0.0ms)
+
+
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 186ms (Views: 184.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:31:44 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 93ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=res" for 127.0.0.1 at 2018-10-06 07:31:46 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"res"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 348ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:31:46 -0600
+Processing by SearchController#hello as JS
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 46ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 07:39:45 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 191ms (Views: 183.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 07:39:48 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Completed 500 Internal Server Error in 527ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template views/twitter/search.html.erb with {:locale=>[:en], :formats=>[:js, "application/ecmascript", "application/x-ecmascript", :html, :text, :js, :css, :ics, :csv, :vcf, :vtt, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :mp3, :ogg, :m4a, :webm, :mp4, :otf, :ttf, :woff, :woff2, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/josephframpton/code/redpi/redpi/app/views"
+):
+  
+app/controllers/twitter_controller.rb:20:in `search'
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 07:43:08 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 837ms (Views: 170.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 08:40:44 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1764ms (Views: 179.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 08:40:49 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 17ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=come" for 127.0.0.1 at 2018-10-06 08:41:00 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"come"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1607ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 08:49:03 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 194ms (Views: 185.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 08:49:17 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 384ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 08:53:13 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 180ms (Views: 173.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 08:53:21 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 330ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `response' for #<Twitter:0x00007f82676b6ea8>
+Did you mean?  respond_to?):
+  
+app/controllers/twitter_controller.rb:9:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 08:56:01 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 183ms (Views: 175.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 08:56:12 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 403ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `statuses' for #<String:0x00007fad66ce9260>):
+  
+app/services/format_data_for_sentiment.rb:7:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-06 08:59:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 345ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `statuses' for #<Hash:0x00007fad6d4fa660>):
+  
+app/services/format_data_for_sentiment.rb:8:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-06 09:00:04 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 183ms (Views: 175.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 09:00:09 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Completed 500 Internal Server Error in 365ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `statuses' for #<Hash:0x00007ff3ee2fca58>):
+  
+app/services/format_data_for_sentiment.rb:8:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 09:00:36 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+Completed 500 Internal Server Error in 344ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `text' for #<Hash:0x00007fbd77b1fa58>):
+  
+app/services/format_data_for_sentiment.rb:10:in `block in perform'
+app/services/format_data_for_sentiment.rb:8:in `each'
+app/services/format_data_for_sentiment.rb:8:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 09:01:04 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 533ms (Views: 179.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-06 09:04:44 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 549ms (Views: 194.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-06 09:05:33 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 183ms (Views: 172.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=sdf" for 127.0.0.1 at 2018-10-06 09:05:37 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"sdf"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 393ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=sdf" for 127.0.0.1 at 2018-10-06 09:06:22 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"sdf"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 587ms (Views: 191.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=some" for 127.0.0.1 at 2018-10-06 22:14:36 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"some"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 610ms (Views: 240.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-10 20:53:22 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 192ms (Views: 183.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=test" for 127.0.0.1 at 2018-10-10 20:53:26 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"test"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 388ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-10 20:57:57 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 380ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `+' for nil:NilClass):
+  
+app/services/format_data_for_sentiment.rb:11:in `block in perform'
+app/services/format_data_for_sentiment.rb:9:in `map!'
+app/services/format_data_for_sentiment.rb:9:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-10 20:58:33 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 336ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `+' for nil:NilClass):
+  
+app/services/format_data_for_sentiment.rb:11:in `block in perform'
+app/services/format_data_for_sentiment.rb:9:in `map!'
+app/services/format_data_for_sentiment.rb:9:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-10 20:59:22 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 904ms (Views: 205.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-10 21:01:40 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 723ms (Views: 229.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 20:05:20 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 459ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-12 20:50:20 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 192ms (Views: 184.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 20:50:25 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 407ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 20:52:55 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 463ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=something" for 127.0.0.1 at 2018-10-12 20:57:03 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"something"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 397ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=something" for 127.0.0.1 at 2018-10-12 20:57:06 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"something"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 370ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-12 21:57:03 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 168ms (Views: 159.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 21:57:22 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 373ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `string' for #<FormatDataForSentiment:0x00007fb62a91b760>):
+  
+app/controllers/twitter_controller.rb:12:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 21:57:53 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 343ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `[]' for #<FormatDataForSentiment:0x00007fd755bdd7e0>):
+  
+app/controllers/twitter_controller.rb:12:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 21:59:16 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 584ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/services/sentiment.rb:19:in `initialize'
+app/controllers/twitter_controller.rb:15:in `new'
+app/controllers/twitter_controller.rb:15:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:03:54 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 566ms (Views: 205.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:04:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 674ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:06:13 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 619ms (Views: 209.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:06:47 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 602ms (Views: 213.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:07:45 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 378ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 0, expected 1)):
+  
+app/services/sentiment.rb:20:in `send'
+app/controllers/twitter_controller.rb:15:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:08:18 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 334ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/services/sentiment.rb:31:in `send'
+app/controllers/twitter_controller.rb:15:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:08:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 392ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/services/sentiment.rb:31:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:09:42 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 7436ms (Views: 192.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:11:59 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1992ms (Views: 200.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:15:01 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2141ms (Views: 207.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:18:35 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 378ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/josephframpton/code/redpi/redpi/app/services/format_data_for_sentiment.rb:2: syntax error, unexpected ':', expecting keyword_end
+  attr_accessor :string :data
+                        ^):
+  
+app/services/format_data_for_sentiment.rb:2: syntax error, unexpected ':', expecting keyword_end
+app/controllers/twitter_controller.rb:9:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:19:00 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 368ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `data' for #<Sentiment:0x00007fc86c382700 @response="", @data=nil>
+Did you mean?  @data):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:20:22 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 362ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `for_each' for nil:NilClass):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:25:59 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 584ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `for_each' for nil:NilClass):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:26:13 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 351ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `for_each' for nil:NilClass):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:27:31 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 376ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `for_each' for nil:NilClass):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:29:10 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 366ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `for_each' for #<Hash:0x00007f83a0c8b0d8>):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:30:33 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 373ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `for_each' for #<Array:0x00007fa53f210ea8>):
+  
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:30:57 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 345ms (ActiveRecord: 0.0ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/services/sentiment.rb:33:in `+'
+app/services/sentiment.rb:33:in `block in send'
+app/services/sentiment.rb:22:in `each'
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:32:11 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 1863ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `append' for "":String):
+  
+app/services/sentiment.rb:39:in `block in send'
+app/services/sentiment.rb:22:in `each'
+app/services/sentiment.rb:22:in `send'
+app/controllers/twitter_controller.rb:16:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-12 22:32:34 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19455ms (Views: 180.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 22:36:16 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20213ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 22:40:48 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19663ms (Views: 186.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 22:53:05 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20516ms (Views: 192.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 22:57:30 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 19930ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `ex' for #<Statistics:0x00007ffc7e185380>):
+  
+app/services/statistics.rb:29:in `rescue in block in calculate'
+app/services/statistics.rb:21:in `block in calculate'
+app/services/statistics.rb:20:in `each'
+app/services/statistics.rb:20:in `calculate'
+app/controllers/twitter_controller.rb:23:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 22:58:58 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 20400ms (ActiveRecord: 0.0ms)
+
+
+  
+ZeroDivisionError (divided by 0):
+  
+app/services/statistics.rb:34:in `/'
+app/services/statistics.rb:34:in `calculate'
+app/controllers/twitter_controller.rb:23:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 22:59:53 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20731ms (Views: 194.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:01:28 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 20067ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `positive_total' for #<Hash:0x00007f9f7796fe38>):
+  
+app/controllers/twitter_controller.rb:26:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:04:14 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 20382ms (ActiveRecord: 0.0ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/services/statistics.rb:17:in `initialize'
+app/controllers/twitter_controller.rb:22:in `new'
+app/controllers/twitter_controller.rb:22:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:05:46 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 17450ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `positive_total' for #<Hash:0x00007fe23b6e72e0>):
+  
+app/controllers/twitter_controller.rb:26:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:08:12 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20109ms (Views: 191.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:09:49 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20632ms (Views: 183.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:11:00 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 20481ms (ActiveRecord: 0.0ms)
+
+
+  
+TypeError (no implicit conversion of Array into String):
+  
+app/services/statistics.rb:19:in `initialize'
+app/controllers/twitter_controller.rb:22:in `new'
+app/controllers/twitter_controller.rb:22:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:12:11 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 20413ms (ActiveRecord: 0.0ms)
+
+
+  
+ZeroDivisionError (divided by 0):
+  
+app/services/statistics.rb:41:in `/'
+app/services/statistics.rb:41:in `calculate'
+app/controllers/twitter_controller.rb:23:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:14:44 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 20657ms (Views: 368.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-12 23:18:48 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 19318ms (Views: 361.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 10:44:58 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 69ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNREFUSED (Failed to open TCP connection to api.twitter.com:443 (Connection refused - connect(2) for "api.twitter.com" port 443)):
+  
+app/services/twitter.rb:41:in `search_for'
+app/controllers/twitter_controller.rb:6:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 10:45:17 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNREFUSED (Failed to open TCP connection to api.twitter.com:443 (Connection refused - connect(2) for "api.twitter.com" port 443)):
+  
+app/services/twitter.rb:41:in `search_for'
+app/controllers/twitter_controller.rb:6:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 10:45:19 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 0.0ms)
+
+
+  
+Errno::ECONNREFUSED (Failed to open TCP connection to api.twitter.com:443 (Connection refused - connect(2) for "api.twitter.com" port 443)):
+  
+app/services/twitter.rb:41:in `search_for'
+app/controllers/twitter_controller.rb:6:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-13 11:17:35 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 200ms (Views: 192.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 11:17:40 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 27689ms (ActiveRecord: 0.0ms)
+
+
+  
+JSON::ParserError (765: unexpected token at 'URIError: URI malformed
+    at decodeURIComponent (native)
+    at handleAnalyze (/home/fyhao/app/nodejs/mashape/module/sentiment.js:13:9)
+    at callbacks (/home/fyhao/app/nodejs/mashape/node_modules/express/lib/router/index.js:161:37)
+    at param (/home/fyhao/app/nodejs/mashape/node_modules/express/lib/router/index.js:135:11)
+    at pass (/home/fyhao/app/nodejs/mashape/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/home/fyhao/app/nodejs/mashape/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/home/fyhao/app/nodejs/mashape/node_modules/express/lib/router/index.js:33:10)
+    at next (/home/fyhao/app/nodejs/mashape/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at multipart (/home/fyhao/app/nodejs/mashape/node_modules/express/node_modules/connect/lib/middleware/multipart.js:60:27)
+    at /home/fyhao/app/nodejs/mashape/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:57:9'):
+  
+app/services/statistics.rb:21:in `block in calculate'
+app/services/statistics.rb:20:in `each'
+app/services/statistics.rb:20:in `calculate'
+app/controllers/twitter_controller.rb:23:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-13 11:19:21 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 171ms (Views: 163.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 11:19:32 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 18386ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 11:21:15 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19792ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 11:23:07 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20769ms (Views: 193.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 11:24:14 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19576ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 11:24:49 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19143ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 11:30:11 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 20880ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 11:32:28 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17789ms (Views: 201.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 11:41:42 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20326ms (Views: 166.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:03:33 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 32409ms (Views: 213.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:23:37 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20458ms (Views: 190.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:26:08 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 21008ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:28:53 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19631ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:30:10 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 420ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `response' for #<String:0x00007faf17e70fb8>
+Did you mean?  respond_to?):
+  
+app/controllers/twitter_controller.rb:7:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:30:45 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19042ms (Views: 178.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-13 23:33:02 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 176ms (Views: 167.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 23:33:09 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19752ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 23:37:58 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (17.7ms)
+Completed 500 Internal Server Error in 21504ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `results' for nil:NilClass):
+    1: <h1>
+    2:   YOU MADE IT
+    3:   <% @statistics.results['query'] %>
+    4:   YOU MADE IT 2
+    5:   <% statistics.results['query'] %>
+    6: </h1>
+  
+app/views/twitter/search.html.erb:3:in `_app_views_twitter_search_html_erb___2223083305715526193_70285384703420'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 23:38:43 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (210.8ms)
+Completed 500 Internal Server Error in 20247ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `statistics' for #<#<Class:0x00007ff8b21da3c8>:0x00007ff8b216f0c8>):
+    1: <h1>
+    2:   YOU MADE IT 2
+    3:   <% statistics.results['query'] %>
+    4: </h1>
+  
+app/views/twitter/search.html.erb:3:in `_app_views_twitter_search_html_erb___205008378797572112_70353058415120'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-13 23:39:51 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20437ms (Views: 202.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-13 23:41:04 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 169ms (Views: 161.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=" for 127.0.0.1 at 2018-10-13 23:41:06 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>""}
+Completed 500 Internal Server Error in 280ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `map!' for nil:NilClass):
+  
+app/services/format_data_for_sentiment.rb:10:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=" for 127.0.0.1 at 2018-10-13 23:41:21 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>""}
+Completed 500 Internal Server Error in 271ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `map!' for nil:NilClass):
+  
+app/services/format_data_for_sentiment.rb:10:in `perform'
+app/controllers/twitter_controller.rb:10:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:41:30 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 20464ms (Views: 129.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-13 23:45:48 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 18160ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:8: syntax error, unexpected ')', expecting ']'
+...( @results['neutral_average%' );@output_buffer.safe_append='...
+...                              ^
+/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:12: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+          ^~~~~~
+/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:14: syntax error, unexpected keyword_end, expecting ')'
+          end
+          ^~~):
+  
+app/views/twitter/search.html.erb:8: syntax error, unexpected ')', expecting ']'
+app/views/twitter/search.html.erb:12: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/twitter/search.html.erb:14: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-14 00:01:56 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+Completed 500 Internal Server Error in 17473ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `[]' for #<Statistics:0x00007fe5ba9777d0>):
+  
+app/controllers/twitter_controller.rb:31:in `search'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-14 00:03:04 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 20783ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:8: syntax error, unexpected ')', expecting ']'
+...( @results['neutral_average%' );@output_buffer.safe_append='...
+...                              ^
+/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:14: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+          ^~~~~~
+/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:16: syntax error, unexpected keyword_end, expecting ')'
+          end
+          ^~~):
+  
+app/views/twitter/search.html.erb:8: syntax error, unexpected ')', expecting ']'
+app/views/twitter/search.html.erb:14: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/twitter/search.html.erb:16: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-14 00:04:59 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 20603ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:8: syntax error, unexpected ')', expecting ']'
+...cs.results['neutral_average%' );@output_buffer.safe_append='...
+...                              ^
+/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:14: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+          ^~~~~~
+/Users/josephframpton/code/redpi/redpi/app/views/twitter/search.html.erb:16: syntax error, unexpected keyword_end, expecting ')'
+          end
+          ^~~):
+  
+app/views/twitter/search.html.erb:8: syntax error, unexpected ')', expecting ']'
+app/views/twitter/search.html.erb:14: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/twitter/search.html.erb:16: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-14 00:06:38 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 21116ms (Views: 418.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-14 00:12:55 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 21604ms (Views: 315.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-16 18:43:14 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 28996ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-16 18:46:10 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+No template found for TwitterController#search, rendering head :no_content
+Completed 204 No Content in 18540ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-16 18:47:31 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 21024ms (Views: 181.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-16 18:52:27 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 176ms (Views: 166.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-16 18:52:32 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-16 18:52:38 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21500ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-10-16 20:00:54 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 182ms (Views: 174.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-16 20:01:02 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant Twitter::CONSUMER_API_KEY):
+  
+app/services/twitter.rb:9:in `<class:Twitter>'
+app/services/twitter.rb:1:in `<main>'
+app/controllers/twitter_controller.rb:4:in `search'
+Started GET "/twitter?q=trump" for 127.0.0.1 at 2018-10-16 20:02:54 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"trump"}
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant Twitter::CONSUMER_API_KEY):
+  
+app/services/twitter.rb:11:in `<class:Twitter>'
+app/services/twitter.rb:1:in `<main>'
+app/controllers/twitter_controller.rb:4:in `search'
+Started GET "/" for 127.0.0.1 at 2018-10-16 20:03:10 -0600
+Processing by SearchController#hello as HTML
+  Rendering search/hello.html.erb within layouts/application
+  Rendered search/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=m" for 127.0.0.1 at 2018-10-16 20:03:21 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"m"}
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant Twitter::CONSUMER_API_KEY):
+  
+app/services/twitter.rb:11:in `<class:Twitter>'
+app/services/twitter.rb:1:in `<main>'
+app/controllers/twitter_controller.rb:4:in `search'
+Started GET "/twitter?q=m" for 127.0.0.1 at 2018-10-16 20:03:50 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"m"}
+Completed 500 Internal Server Error in 26ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant Twitter::CONSUMER_API_KEY):
+  
+app/services/twitter.rb:12:in `<class:Twitter>'
+app/services/twitter.rb:1:in `<main>'
+app/controllers/twitter_controller.rb:4:in `search'
+Started GET "/twitter?q=m" for 127.0.0.1 at 2018-10-16 20:04:31 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"m"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 28327ms (Views: 174.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/twitter?q=nintendo" for 127.0.0.1 at 2018-10-16 20:10:52 -0600
+Processing by TwitterController#search as JS
+  Parameters: {"q"=>"nintendo"}
+  Rendering twitter/search.html.erb within layouts/application
+  Rendered twitter/search.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 21218ms (Views: 163.9ms | ActiveRecord: 0.0ms)
+
+
